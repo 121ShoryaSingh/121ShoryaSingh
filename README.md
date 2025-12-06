@@ -9,7 +9,6 @@ Full-stack developer passionate about building scalable web applications using t
 🚀 **Currently Building:** Product AI (AI-powered e-commerce tool) & Warranty Receipt Vault  
 🌱 **Learning:** System design, DSA, and scalability patterns  
 💼 **Open to:** Full-stack developer internships  
-📫 **Reach me:** [Your Email/LinkedIn]
 
 
 
