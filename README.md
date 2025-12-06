@@ -1,7 +1,16 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on:<br>Developing "Product AI," a full-stack application to assist online sellers with content generation using Next.js and Node.js.<br><br>Building scalable and efficient web applications with a focus on the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>Creating a responsive and interactive UI for a fitness platform.<br><br>I'm looking to collaborate on:<br>Full-stack projects, especially those built with Next.js, Node.js, and MongoDB, where I can contribute to both front-end and back-end development.<br><br>Open-source tools that solve real-world problems for developers or end-users.<br><br>I'm looking for help with:<br>Best practices for scaling full-stack applications and optimizing database performance.<br><br>Advanced concepts in backend architecture and system design.<br><br>Connecting with experienced full-stack developers for mentorship and guidance.<br><br>I'm currently learning:<br>Advanced techniques in Next.js and Node.js to build more robust and efficient applications.<br><br>Best practices for API security, authentication, and handling complex server-side logic.<br><br>The principles of both client-side and server-side rendering to improve application performance.<br><br>Ask me about:<br>My journey as a Computer Applications student and aspiring full-stack developer.<br><br>Building projects with the MERN stack, particularly using Next.js for the frontend.<br><br>My experience creating the "Product AI" tool or the UI for the fitness platform.<br><br>Fun fact:<br>I'm an introverted anime nerd who finds joy in both complex code and compelling story arcs.
+## 👋 Hi, I'm Shorya Singh
+
+Full-stack developer passionate about building scalable web applications using the MERN stack and Next.js. Currently pursuing my Master's in Computer Applications and actively seeking internship opportunities to work on production-scale systems.
+
+🔧 **Tech Stack:** React, Next.js, Node.js, MongoDB, Redux, TypeScript, Tailwind CSS  
+🚀 **Currently Building:** Product AI (AI-powered e-commerce tool) & Warranty Receipt Vault  
+🌱 **Learning:** System design, DSA, and scalability patterns  
+💼 **Open to:** Full-stack developer internships  
+📫 **Reach me:** [Your Email/LinkedIn]
+
 
 
 ## 🌐 Socials:
